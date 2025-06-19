@@ -49,6 +49,13 @@ https://x.com/good_bad_sister
 https://www.patreon.com/OrdoMediare
 ![image](https://github.com/user-attachments/assets/ec2c08ff-eeec-4e4d-906a-186330a28f92)
 ![image](https://github.com/user-attachments/assets/2f54dff8-48d3-430f-8f73-af09eb75d235)
+![image](https://github.com/user-attachments/assets/1cb71af4-9499-49cf-a47d-81dfe7316ef4)
+![image](https://github.com/user-attachments/assets/75a7738b-8384-47ca-82be-063eddb9d961)
+![image](https://github.com/user-attachments/assets/d7beb0cb-ada9-414c-af23-30e211af8aa4)
+![image](https://github.com/user-attachments/assets/65600534-2b44-4cf8-9ab9-55577dfc923e)
+![image](https://github.com/user-attachments/assets/2d00884b-c4d9-4d9c-83c8-3b8814d5fd51)
+![image](https://github.com/user-attachments/assets/271d4011-38a9-45cd-bc81-0ea98ebfc7b6)
+![image](https://github.com/user-attachments/assets/50a9189b-fbea-4af7-8ab8-15040ecc3f00)
 
 
 
