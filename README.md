@@ -57,6 +57,12 @@ https://www.patreon.com/OrdoMediare
 ![image](https://github.com/user-attachments/assets/271d4011-38a9-45cd-bc81-0ea98ebfc7b6)
 ![image](https://github.com/user-attachments/assets/50a9189b-fbea-4af7-8ab8-15040ecc3f00)
 ![image](https://github.com/user-attachments/assets/52c48afd-99fa-420e-b073-2a13a6c1ec2f)
+![image](https://github.com/user-attachments/assets/953f4e3b-2af2-4ee5-99b7-02183a41aad5)
+![image](https://github.com/user-attachments/assets/87f9c4e9-076c-4d25-9446-811ea425072a)
+![image](https://github.com/user-attachments/assets/42f422d3-3b92-4639-8ae7-10c7066dd6fe)
+![image](https://github.com/user-attachments/assets/9fdb8b42-a1f9-4863-8bf5-4635ca32fea5)
+![image](https://github.com/user-attachments/assets/1813cc4a-09b7-4914-9490-bbc4f668200b)
+![image](https://github.com/user-attachments/assets/ce1920a8-1f73-4c00-a4cf-5af654434eeb)
 
 
 
