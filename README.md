@@ -38,7 +38,17 @@ https://danbooru.donmai.us/posts/8186847?q=rogi0615
 https://www.pixiv.net/en/users/8060770
 https://www.pixiv.net/en/artworks/109259564
 ![image](https://github.com/user-attachments/assets/93d423fc-fcf9-4807-bf39-2289dd8dcea6)
-
+![image](https://github.com/user-attachments/assets/c2bdc0ba-8017-40e8-b2ae-ff8a5e405aa0)
+![image](https://github.com/user-attachments/assets/cecdba6d-5eae-45d7-943e-a6124b1876d5)
+![image](https://github.com/user-attachments/assets/15964798-61f5-46fd-9f7e-38bb8d3b0d67)
+![image](https://github.com/user-attachments/assets/4b6fe58c-04b5-4a4b-82e3-78e684c4a1e8)
+https://x.com/ironlily_art
+![image](https://github.com/user-attachments/assets/b9edfa1a-0d94-4d51-9919-d97cd0a3517c)
+![image](https://github.com/user-attachments/assets/9985a8d7-a164-4e63-87d3-1e577f7a7066)
+https://x.com/good_bad_sister
+https://www.patreon.com/OrdoMediare
+![image](https://github.com/user-attachments/assets/ec2c08ff-eeec-4e4d-906a-186330a28f92)
+![image](https://github.com/user-attachments/assets/2f54dff8-48d3-430f-8f73-af09eb75d235)
 
 
 
