@@ -186,7 +186,7 @@ https://x.com/He_JJyeo
 ![image](https://github.com/user-attachments/assets/539122f4-d649-4625-84ee-b216bfcdf62e)
 ![image](https://github.com/user-attachments/assets/bd6d7b82-a340-47f6-8343-10a530f2d0dc)
 ![image](https://github.com/user-attachments/assets/20424ab9-8331-4e25-a254-e0331ab40651)
-
+https://www.google.com/search?q=yuric+inc&rlz=1C1GCEA_enPH1038PH1038&oq=yuric+inc&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI3ODhqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8
 
 
 
