@@ -326,7 +326,7 @@
 	},
        {
 		"name": "Kibbutz"
-            "uniqueTo": "State of Israel",
+            "uniqueTo": "Israel",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"food": 1,
                 "culture": 1,
