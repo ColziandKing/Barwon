@@ -1,0 +1,9 @@
+{
+  "name": "Global uniques",
+  "uniques":
+  [
+			"[4] Unit Supply per [4] population [in all cities]",
+			"[-2] Unit Supply per city",
+                "[+50]% Production when constructing [All] buildings [in all cities]",
+]
+  }
