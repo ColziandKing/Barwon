@@ -79,6 +79,26 @@
 		]
 	},
 
+	//Expansion 
+	
+            {
+                "name": "City Militia",
+                "uniques": [
+                    "[-50]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+2 Happiness, +1 Production] [in all cities with a garrison]"
+                ],
+                "requires": ["Warrior Code"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "State Logistics",
+                "uniques": [
+                    "[-25]% maintenance on road & railroads", "Improves movement speed on roads"
+                ],
+                "requires": ["Professional Army"],
+                "row": 3,
+                "column": 4
+            },
 	// Piety
 	{
 		"name": "Piety",
