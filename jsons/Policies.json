@@ -775,8 +775,9 @@
 			{
 				"name": "Populism",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia"
+                                        "[+15]% Strength <for [Military] units> <in [Friendly Land] tiles>",
+					"Instantly consumes [1] [Level 2 Policy] <hidden from users>",
+					"Only available <when above [1] [Level 2 Policy]> <hidden from users>"
 				],
 				"row": 3,
 				"column": 3
@@ -784,8 +785,11 @@
 			{
 				"name": "Fascism",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia"
+                                        "Empire enters golden age <upon conquering a city>",
+					"[Mounted] units gain the [Volley] promotion",
+                                        "[Armor] units gain the [Volley] promotion",
+					"Instantly consumes [1] [Level 2 Policy] <hidden from users>",
+					"Only available <when above [1] [Level 2 Policy]> <hidden from users>"
 				],
 				"row": 3,
 				"column": 5
@@ -1013,8 +1017,9 @@
 			{
 				"name": "Communism",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia"
+					"[+15]% [Food] from every [Market]",
+					"Instantly consumes [1] [Level 2 Policy] <hidden from users>",
+					"Only available <when above [1] [Level 2 Policy]> <hidden from users>"
 				],
 				"row": 3,
 				"column": 3
@@ -1022,8 +1027,9 @@
 			{
 				"name": "Socialism",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia"
+                                        "[+10]% [Science] [in all cities connected to capital]",
+					"Instantly consumes [1] [Level 2 Policy] <hidden from users>",
+					"Only available <when above [1] [Level 2 Policy]> <hidden from users>"
 				],
 				"row": 3,
 				"column": 5
