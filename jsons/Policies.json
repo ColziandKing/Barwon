@@ -23,7 +23,7 @@
 					"[+1 Happiness] per [10] population [in all cities]"
 				],
 				"row": 1,
-				"column": 1
+				"column": 2
 			},
 			{
 				"name": "Oligarchy",
@@ -33,7 +33,7 @@
 					"[-100]% weight to this choice for AI decisions"
 				],
 				"row": 1,
-				"column": 3
+				"column": 5
 			},
 			{
 				"name": "Legalism",
@@ -44,7 +44,7 @@
 					"Oligarchy"
 				],
 				"row": 2,
-				"column": 3
+				"column": 5
 			},
 			{
 				"name": "Landed Elite",
@@ -56,7 +56,7 @@
 					"Legalism"
 				],
 				"row": 3,
-				"column": 2
+				"column": 4
 			},
 			{
 				"name": "Monarchy",
@@ -67,7 +67,7 @@
 					"Legalism"
 				],
 				"row": 3,
-				"column": 4
+				"column": 6
 			},
 			{
 				"name": "Tradition Complete",
@@ -113,6 +113,7 @@
                     "Gain a free [Governor's Mansion] [in this city] <upon founding a city>",
                     "Free [Worker] appears <upon founding a city>"
                 ],
+                "requires": ["City Militia"],
                 "row": 2,
                 "column": 2
             },
@@ -129,7 +130,7 @@
             {
                 "name": "Inquisition",
                 "uniques": ["May buy [Inquisitor] units with [Faith] [in all cities in which the majority religion is a major religion]", "Free [Inquisitor] appears"],
-                "requires": ["Colonialism"],
+                "requires": ["Autarky"],
                 "row": 3,
                 "column": 2
             },
@@ -138,7 +139,7 @@
                 "uniques": [
                     "[-25]% maintenance on road & railroads", "Improves movement speed on roads"
                 ],
-                "requires": ["Autarky"],
+                "requires": ["Colonialism"],
                 "row": 3,
                 "column": 4
             },
