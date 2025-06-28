@@ -114,7 +114,6 @@
                     "Gain a free [Governor's Mansion] [in this city] <upon founding a city>",
                     "Free [Worker] appears <upon founding a city>"
                 ],
-                "requires": ["City Militia"],
                 "row": 2,
                 "column": 2
             },
@@ -124,7 +123,6 @@
                     "Quantity of strategic resources produced by the empire +[50]%",
                     "[+2 Food] [in all cities connected to capital]"
                 ],
-                "requires": ["City Militia"],
                 "row": 2,
                 "column": 4
             },
