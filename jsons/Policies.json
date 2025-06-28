@@ -33,7 +33,7 @@
 					"[-100]% weight to this choice for AI decisions"
 				],
 				"row": 1,
-				"column": 5
+				"column": 4
 			},
 			{
 				"name": "Legalism",
@@ -44,7 +44,7 @@
 					"Oligarchy"
 				],
 				"row": 2,
-				"column": 5
+				"column": 4
 			},
 			{
 				"name": "Landed Elite",
@@ -56,7 +56,7 @@
 					"Legalism"
 				],
 				"row": 3,
-				"column": 4
+				"column": 3
 			},
 			{
 				"name": "Monarchy",
@@ -67,7 +67,7 @@
 					"Legalism"
 				],
 				"row": 3,
-				"column": 6
+				"column": 5
 			},
 			{
 				"name": "Tradition Complete",
@@ -103,7 +103,6 @@
                 "uniques": [
                     "[-50]% maintenance costs <for [Military] units> <in [City center] tiles>", "[+2 Happiness, +1 Production] [in all cities with a garrison]"
                 ],
-                "requires": ["City Militia"],
                 "row": 1,
                 "column": 3
             },
@@ -267,7 +266,7 @@
                     "[-100]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
-                "column": 4
+                "column": 5
             },
             {
                 "name": "Collective Rule",
@@ -287,7 +286,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Meritocracy",
@@ -298,7 +297,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 5
+                "column": 6
             },
             {
                 "name": "Liberty Complete",
