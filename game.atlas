@@ -1,5 +1,5 @@
 
-game2.png
+Gov.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -12,7 +12,7 @@ BuildingIcons/Governor's Mansion
   offset: 0, 0
   index: -1
 
-game4.png
+Col.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
