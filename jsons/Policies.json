@@ -56,7 +56,7 @@
 					"Legalism"
 				],
 				"row": 3,
-				"column": 3
+				"column": 2
 			},
 			{
 				"name": "Monarchy",
@@ -67,7 +67,7 @@
 					"Legalism"
 				],
 				"row": 3,
-				"column": 5
+				"column": 6
 			},
 			{
 				"name": "Tradition Complete",
@@ -266,7 +266,7 @@
                     "[-100]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
-                "column": 5
+                "column": 4
             },
             {
                 "name": "Collective Rule",
@@ -286,7 +286,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 4
+                "column": 3
             },
             {
                 "name": "Meritocracy",
@@ -297,7 +297,7 @@
                 ],
                 "requires": ["Citizenship"],
                 "row": 2,
-                "column": 6
+                "column": 5
             },
             {
                 "name": "Liberty Complete",
