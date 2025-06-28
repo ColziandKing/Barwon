@@ -248,7 +248,7 @@
             "Scientific": 10
         },
         "uniques": ["[+1 Culture] [in all cities]",
-	                "Only available <before the [Industrial era]>",],
+	                "Only available <before the [Industrial era]>"],
         "policies": [
             {
                 "name": "Republic",
@@ -397,6 +397,7 @@
 		"uniques": [
 			"[+50]% Production when constructing [Shrine] buildings [in all cities]",
 			"[+50]% Production when constructing [Temple] buildings [in all cities]",
+	                "Only available <before the [Industrial era]>",
 			"Only available <when religion is enabled>"
 		],
 		"policies": [
