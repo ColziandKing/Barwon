@@ -17,6 +17,33 @@
             "Cannot be purchased"
         ]
     },
+	{
+		"name": "Theatre",
+		"happiness": 3,
+		"culture": 1,
+		"hurryCostModifier": 10,
+		"maintenance": 2,
+		"requiredTech": "Printing Press"
+	},
+    {
+        "name": "Hospital",
+        "food": 5,
+        "requiredBuilding": "Aqueduct",
+        "maintenance": 2,
+        "hurryCostModifier": 0,
+	"uniques": [
+			    "All newly-trained [relevant] units [in this city] receive the [Medic] promotion",
+	],
+	    "requiredTech": "Biology"
+    },
+	{
+		"name": "National Treasury",
+		"cost": 125,
+		"gold": 8,
+		"isNationalWonder": true,
+		"uniques": ["Doubles Gold given to enemy if city is captured","Only available <if [Market] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"requiredTech": "Guilds"
+	},
     {
         "name": "Great Wall",
         "culture": 3,
