@@ -31,3 +31,204 @@ PolicyIcons/Colonialism
   orig: 50, 50
   offset: 0, 0
   index: -1
+
+
+Relex.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+PolicyBranchIcons/Relations
+  rotate: false
+  xy: 1000, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Monasticism
+  rotate: false
+  xy: 1108, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Machiavellianism
+  rotate: false
+  xy: 1220, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Internationalism
+  rotate: false
+  xy: 1340, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mercenary Opportunism
+  rotate: false
+  xy: 1340, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/World Expo
+  rotate: false
+  xy: 1340, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Monumentalism
+  rotate: false
+  xy: 1470, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Counter Intelligence
+  rotate: false
+  xy: 1470, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Diplomatic Missions
+  rotate: false
+  xy: 1470, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/City Militia
+  rotate: false
+  xy: 1590, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Trade
+  rotate: false
+  xy: 1590, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Resource Contracts
+  rotate: false
+  xy: 1590, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/State Logistics
+  rotate: false
+  xy: 1702, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Free Market
+  rotate: false
+  xy: 1702, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Diplomatic Obstructionism
+  rotate: false
+  xy: 1702, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Religious Orders
+  rotate: false
+  xy: 1820, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Market Economy
+  rotate: false
+  xy: 1820, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Foreign Aid
+  rotate: false
+  xy: 1820, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Orthodoxy
+  rotate: false
+  xy: 1820, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyBranchIcons/Expansion
+  rotate: false
+  rotate: false
+  xy: 1940, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Inquisition
+  rotate: false
+  rotate: false
+  xy: 1940, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+PolicyIcons/Autarky
+  rotate: false
+  rotate: false
+  xy: 1940, 520
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Catholicism
+  rotate: false
+  rotate: false
+  xy: 1940, 640
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ReligionIcons/Protestantism
+  rotate: false
+  rotate: false
+  xy: 1940, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Diplomat
+  rotate: false
+  rotate: false
+  xy: 1940, 865
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+  
+Cap.png
+size: 2048, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Relocate Capital
+  rotate: false
+  xy: 1940, 40
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
