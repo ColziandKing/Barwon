@@ -213,7 +213,7 @@
                     "Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
                 "requires": ["Counter Intelligence", "Resource Contracts"],
                 "row": 3,
-                "column": 2
+                "column": 4
             },
 		{
                 "name": "Resource Contracts",
