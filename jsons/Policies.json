@@ -107,6 +107,28 @@
                 "column": 3
             },
             {
+                "name": "Colonialism",
+                "uniques": [
+                    "[+1] population [in all cities]",
+                    "[+1 Happiness] [in all cities]",
+                    "Gain a free [Governor's Mansion] [in this city] <upon founding a city>",
+                    "Free [Worker] appears <upon founding a city>"
+                ],
+                "requires": ["City Militia"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Autarky",
+                "uniques": [
+                    "Quantity of strategic resources produced by the empire +[50]%",
+                    "[+2 Food] [in all cities connected to capital]"
+                ],
+                "requires": ["City Militia"],
+                "row": 2,
+                "column": 4
+            },
+            {
                 "name": "Inquisition",
                 "uniques": ["May buy [Inquisitor] units with [Faith] [in all cities in which the majority religion is a major religion]", "Free [Inquisitor] appears"],
                 "requires": ["Autarky"],
