@@ -4,8 +4,9 @@
 	"Allow City States to spawn with additional units",
 	"Can trade civilization introductions for [100] Gold",
 	"Allow raze holy city",
+	"Allow raze capital",
     ],
-	"modUrl": "https://github.com/ColziandKing/RSCnity",
+	"modUrl": "https://github.com/ColziandKing/Barwon",
 	"author": "ColziandKing",
 	"constants": {
     "religionLimitBase":5,
