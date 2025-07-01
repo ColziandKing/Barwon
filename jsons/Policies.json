@@ -576,6 +576,7 @@
 		},
 		"uniques": [
 			"[+10]% [Science] <while the empire is happy>",
+		 "Adopt [Secularism]", 
 			"Unavailable <after adopting [Order]> <hidden from users>",
 			"Unavailable <after adopting [Autocracy]> <hidden from users>",
 		],
@@ -647,7 +648,8 @@
 		"name": "Exploration",
 		"uniques": [
 			"[+1] Movement <for [{Military} {Water}] units>",
-			"[+1] Sight <for [{Military} {Water}] units>"
+			"[+1] Sight <for [{Military} {Water}] units>",
+		 "Adopt [Maritime Infrastructure]", 
 		],
 		"era": "Medieval era",
 		"priorities": {
@@ -742,6 +744,7 @@
 		},
 		"uniques": [
 			"[+25]% [Gold] [in capital]",
+		 "Adopt [Wagon Trains]", 
 			"Unavailable <after adopting [Order]> <hidden from users>",
 			"Unavailable <after adopting [Autocracy]> <hidden from users>",
 		],
@@ -819,7 +822,8 @@
 		"uniques": [
 			"[Great Artist] is earned [25]% faster",
 			"[Great Musician] is earned [25]% faster",
-			"[Great Writer] is earned [25]% faster"
+			"[Great Writer] is earned [25]% faster",
+		 "Adopt [Cultural Centers]", 
 		],
 		"priorities": {
 			"Neutral": 0,
@@ -928,6 +932,7 @@
 			"Unavailable <after adopting [Order]> <hidden from users>",
 			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs)
 			"Remove [Ideology] [in capital] <hidden from users>",
+		 "Adopt [United Front]", 
 
 			// Preferred Ideology
 			"[+50]% weight to this choice for AI decisions",
@@ -1178,6 +1183,7 @@
 			"Unavailable <after adopting [Autocracy]> <hidden from users>",
 			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs)
 			"Remove [Ideology] [in capital] <hidden from users>",
+		 "Adopt [Hero of the People]", 
 
 			// Preferred Ideology
 			"[+50]% weight to this choice for AI decisions",
@@ -1421,6 +1427,7 @@
 			"Unavailable <after adopting [Autocracy]> <hidden from users>",
 			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs)
 			"Remove [Ideology] [in capital] <hidden from users>",
+		 "Adopt [Economic Union]", 
 
 			// Preferred Ideology
 			"[+50]% weight to this choice for AI decisions",
