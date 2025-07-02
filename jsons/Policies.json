@@ -496,7 +496,7 @@
 		"uniques": [
 			"[-25]% City-State Influence degradation",
 			"[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [5]>", 
-		 "Adopt [Philanthropy]", 
+		 "Adopt [Philantropy]", 
             "Only available <before adopting [Relations]>",
 			"Unavailable <after adopting [Order]> <hidden from users>",
 			"Unavailable <after adopting [Autocracy]> <hidden from users>",
@@ -536,7 +536,8 @@
 			{
 				"name": "Consulates",
 				"uniques": [
-					"Resting point for Influence with City-States is increased by [20]"
+					"Resting point for Influence with City-States is increased by [20]",
+		 "Adopt [Philantropy]", 
 				],
 				"row": 1,
 				"column": 4
