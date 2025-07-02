@@ -536,8 +536,7 @@
 			{
 				"name": "Consulates",
 				"uniques": [
-					"Resting point for Influence with City-States is increased by [20]",
-		 "Adopt [Philantropy]", 
+					"Resting point for Influence with City-States is increased by [20]"
 				],
 				"row": 1,
 				"column": 4
