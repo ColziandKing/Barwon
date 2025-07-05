@@ -1670,8 +1670,10 @@
 			{
 				"name": "Free Religion",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia",
+					"[-5 Faith] [in holy cities]",
+					"[-3 Faith] [in capital]",
+					"[-2 Faith] [in all cities]",
+					"[+15]% Natural religion spread [in all cities]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
