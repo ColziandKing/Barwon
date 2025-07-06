@@ -1679,7 +1679,7 @@
 			{
 				"name": "Educated Elite",
 				"uniques": [
-					"Free Technology","Free Social Policy",
+					"Free Technology <upon discovering [Philosophy] technology>",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1688,8 +1688,7 @@
 			{
 				"name": "Trade Unions",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia",
+					"Free Social Policy",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
