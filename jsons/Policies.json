@@ -1679,8 +1679,7 @@
 			{
 				"name": "Educated Elite",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia",
+					"Free Technology","Free Social Policy",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1718,8 +1717,8 @@
 			{
 				"name": "Planned Economy",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia",
+            "[+75]% unhappiness from the number of cities",
+        "[-25]% Unhappiness from [Population] [in all cities]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 2,
@@ -1746,8 +1745,7 @@
 			{
 				"name": "Democracy",
 				"uniques": [
-					"Unavailable",
-					"Will not be displayed in Civilopedia",
+		"[-3 Food, -3 Production] from every specialist [in all cities]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 3,
