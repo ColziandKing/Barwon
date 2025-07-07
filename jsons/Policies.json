@@ -1671,11 +1671,10 @@
 			{
 				"name": "Free Religion",
 				"uniques": [
-					"[-5 Faith] [in holy cities]",
-					"[-3 Faith] [in capital]",
-					"[-2 Faith] [in all cities]",
+					"[-10 Faith] [in holy cities]",
+					"[-7 Faith] [in capital]",
+					"[-5 Faith] [in all cities]",
 					"[+27]% Natural religion spread [in all cities]",
-                                        "Empire enters golden age <upon declaring war>",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1695,6 +1694,7 @@
 				"name": "Trade Unions",
 				"uniques": [
 					"Free Social Policy <upon discovering [Guilds] technology>",
+					"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns",
                     "Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves",
 					"Allied City-States provide [Food] equal to [+40]% of what they produce for themselves",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
