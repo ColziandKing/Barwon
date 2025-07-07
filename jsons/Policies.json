@@ -1,4 +1,85 @@
 [
+	// Tradition
+	{
+		"name": "Tradition",
+		"era": "Ancient era",
+		"priorities": {
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 10
+		},
+		"uniques": [
+			"[+3 Culture] [in capital]",
+			"[-25]% Culture cost of natural border growth [in all cities]",
+		 "Adopt [Oligarchy]", 
+	                "Only available <before the [Industrial era]>",
+		],
+		"policies": [
+			{
+				"name": "Aristocracy",
+				"uniques": [
+					"[+15]% Production when constructing [All] wonders [in all cities]",
+					"[+1 Happiness] per [10] population [in all cities]"
+				],
+				"row": 1,
+				"column": 2
+			},
+			{
+				"name": "Oligarchy",
+				"uniques": [
+					"Units in cities cost no Maintenance",
+					"[+50]% Strength for cities <with a garrison> <when attacking>",
+					"[-100]% weight to this choice for AI decisions"
+				],
+				"row": 1,
+				"column": 4
+			},
+			{
+				"name": "Legalism",
+				"uniques": [
+					"Provides the cheapest [Culture] building in your first [4] cities for free"
+				],
+				"requires": [
+					"Oligarchy"
+				],
+				"row": 2,
+				"column": 4
+			},
+			{
+				"name": "Landed Elite",
+				"uniques": [
+					"[+10]% growth [in capital]",
+					"[+2 Food] [in capital]"
+				],
+				"requires": [
+					"Legalism"
+				],
+				"row": 3,
+				"column": 2
+			},
+			{
+				"name": "Monarchy",
+				"uniques": [
+					"[+1 Gold, +1 Happiness] per [2] population [in capital]"
+				],
+				"requires": [
+					"Legalism"
+				],
+				"row": 3,
+				"column": 6
+			},
+			{
+				"name": "Tradition Complete",
+				"uniques": [
+					"[+15]% growth [in all cities]",
+					"Provides a [Aqueduct] in your first [4] cities for free",
+					"May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
+				]
+			}
+		]
+	},
 	
 	//Expansion 
     {
@@ -1687,10 +1768,9 @@
 			}
 		]
 	}
-        ],
 	// Tradition
 	{
-		"name": "Trraditionm",
+		"name": "Traditionm",
 		"era": "Ancient era",
 		"priorities": {
             "Neutral": 0,
@@ -1769,3 +1849,4 @@
 			}
 		]
 	},
+        ],
