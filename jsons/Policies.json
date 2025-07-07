@@ -97,7 +97,7 @@
                 "Notified of new Barbarian encampments", "Comment [+25% Strength vs Barbarians and City-States units]", "[+25]% Strength <vs [Barbarian] units> <hidden from users>", 
 		"[+25]% Strength <vs [City-States]> <hidden from users>",
 		 "Adopt [City Militia]", 
-			"[+50]% weight to this choice for AI decisions"
+			"[+25]% weight to this choice for AI decisions"
         ],
         "policies": [
             {
@@ -170,7 +170,7 @@
         "uniques": [,
                     "May buy [Diplomat] units for [500] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50]) <starting from the [Medieval era]>",
 		 "Adopt [Machiavellianism]", 
-			"[+50]% weight to this choice for AI decisions"
+			"[+25]% weight to this choice for AI decisions"
 	    ],
 	    "policies": [
             {
@@ -934,7 +934,7 @@
 		 "Adopt [Fortified Borders]", 
 
 			// Preferred Ideology
-			"[+50]% weight to this choice for AI decisions",
+			"[+75]% weight to this choice for AI decisions",
 			"[+100]% weight to this choice for AI decisions <for [Preferred Ideology: Autocracy] Civilizations>",
 			"[+100]% weight to this choice for AI decisions <for [Aztecs] Civilizations>",
 			"[+100]% weight to this choice for AI decisions <for [Greece] Civilizations>",
@@ -1186,7 +1186,7 @@
 		 "Adopt [Young Pioneers]", 
 
 			// Preferred Ideology
-			"[+50]% weight to this choice for AI decisions",
+			"[+75]% weight to this choice for AI decisions",
 			"[+100]% weight to this choice for AI decisions <for [Preferred Ideology: Order] Civilizations>",
 			"[+100]% weight to this choice for AI decisions <for [Babylon] Civilizations>",
 			"[+100]% weight to this choice for AI decisions <for [China] Civilizations>",
@@ -1431,7 +1431,7 @@
 		 "Adopt [Economic Union]", 
 
 			// Preferred Ideology
-			"[+50]% weight to this choice for AI decisions",
+			"[+75]% weight to this choice for AI decisions",
 			"[+100]% weight to this choice for AI decisions <for [Preferred Ideology: Freedom] Civilizations>",
 			"[+100]% weight to this choice for AI decisions <for [America] Civilizations>",
 			"[+100]% weight to this choice for AI decisions <for [Austria] Civilizations>",
