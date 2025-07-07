@@ -1671,9 +1671,9 @@
 			{
 				"name": "Free Religion",
 				"uniques": [
-					"[-10 Faith] [in holy cities]",
-					"[-7 Faith] [in capital]",
-					"[-5 Faith] [in all cities]",
+					"[-7 Faith] [in holy cities]",
+					"[-5 Faith] [in capital]",
+					"[-3 Faith] [in all cities]",
 					"[+27]% Natural religion spread [in all cities]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
