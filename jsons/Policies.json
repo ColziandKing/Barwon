@@ -97,7 +97,7 @@
                 "Notified of new Barbarian encampments", "Comment [+25% Strength vs Barbarians and City-States units]", "[+25]% Strength <vs [Barbarian] units> <hidden from users>", 
 		"[+25]% Strength <vs [City-States]> <hidden from users>",
 		 "Adopt [City Militia]", 
-            "Only available <before adopting [Honor]>",
+			"[+50]% weight to this choice for AI decisions"
         ],
         "policies": [
             {
@@ -170,7 +170,7 @@
         "uniques": [,
                     "May buy [Diplomat] units for [500] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50]) <starting from the [Medieval era]>",
 		 "Adopt [Machiavellianism]", 
-            "Only available <before adopting [Patronage]>",
+			"[+50]% weight to this choice for AI decisions"
 	    ],
 	    "policies": [
             {
@@ -325,7 +325,6 @@
             "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]", 
             "Notified of new Barbarian encampments", 
 		 "Adopt [Discipline]", 
-            "Only available <before adopting [Expansion]>",
 	                "Only available <before the [Industrial era]>",
         ],
         "policies": [
@@ -497,7 +496,6 @@
 			"[-25]% City-State Influence degradation",
 			"[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [5]>", 
 		 "Adopt [Philantropy]", 
-            "Only available <before adopting [Relations]>",
 			"Unavailable <after adopting [Order]> <hidden from users>",
 			"Unavailable <after adopting [Autocracy]> <hidden from users>",
 		],
