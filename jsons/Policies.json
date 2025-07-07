@@ -1685,6 +1685,7 @@
 				"uniques": [
 					"Free Technology <upon discovering [Education] technology>",
                                         "[+15]% [Production] [in all cities]",
+			"Comment [Unique policy to Austria civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1707,6 +1708,7 @@
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-25]%",
 			"Gain a free [Follower] belief <after founding a religion>",
+			"Comment [Unique policy to Spain civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
                 ],
                 "row": 2,
@@ -1716,6 +1718,7 @@
                 "name": "Monasticism",
                 "uniques": [
 			"Gain a free [Garden] [in all cities]", "[+1 Faith] from every [Garden]",
+			"Comment [Unique policy to Byzantine civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 		],
                 "row": 2,
@@ -1735,6 +1738,7 @@
                 "name": "Monumentalism",
                 "uniques": [
                    "[+1 Happiness, +1 Culture] from every [Wonder]",
+			"Comment [Unique policy to France civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
                 ],
                 "row": 3,
@@ -1744,6 +1748,7 @@
                 "name": "Free Market",
                 "uniques": [
 			"[+1] Happiness from each type of luxury resource",
+			"Comment [Unique policy to Poland civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 		],
                 "row": 3,
