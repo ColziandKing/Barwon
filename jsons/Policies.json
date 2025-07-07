@@ -1671,6 +1671,7 @@
 					"[-3 Faith] [in capital]",
 					"[-2 Faith] [in all cities]",
 					"[+27]% Natural religion spread [in all cities]",
+                                        "Empire enters golden age <upon declaring war>",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1679,7 +1680,8 @@
 			{
 				"name": "Educated Elite",
 				"uniques": [
-					"Free Technology <upon discovering [Philosophy] technology>",
+					"Free Technology <upon discovering [Education] technology>",
+                                        "[+15]% [Production] [in all cities]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1688,7 +1690,9 @@
 			{
 				"name": "Trade Unions",
 				"uniques": [
-					"Free Social Policy",
+					"Free Social Policy <upon discovering [Guilds] technology>",
+                    "Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves",
+					"Allied City-States provide [Food] equal to [+40]% of what they produce for themselves",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1744,6 +1748,7 @@
 			{
 				"name": "Democracy",
 				"uniques": [
+                    "[+2 Production, +2 Food] per [2] population [in all cities]",
 		"[-3 Food, -3 Production] from every specialist [in all cities]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
