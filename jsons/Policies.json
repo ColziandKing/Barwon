@@ -131,8 +131,10 @@
                 "column": 4
             },
             {
-                "name": "Inquisition",
-                "uniques": ["May buy [Inquisitor] units with [Faith] [in all cities in which the majority religion is a major religion]", "Free [Inquisitor] appears"],
+                "name": "Relations",
+                "uniques": [
+                    "May buy [Diplomat] units for [500] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Medieval era]>"
+		],
                 "requires": ["Autarky"],
                 "row": 3,
                 "column": 2
@@ -151,90 +153,8 @@
                 "uniques": [
                  "[-25]% Culture cost of natural border growth [in all cities connected to capital]", "[-25]% Gold cost of acquiring tiles [in all cities connected to capital]"
                 ]
-            }
-        ]
-    },
-	
-	//Relations
-    {
-        "name": "Relations",
-        "era": "Medieval era",
-        "priorities": {
-            "Neutral": 0,
-            "Cultural": 10,
-            "Diplomatic": 20,
-            "Domination": 0,
-            "Scientific": 10,
-	    "Religious": 0
-        },
-        "uniques": [,
-                    "May buy [Diplomat] units for [500] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([50]) <starting from the [Medieval era]>",
-		 "Adopt [Machiavellianism]", 
-			"[+25]% weight to this choice for AI decisions"
-	    ],
-	    "policies": [
-            {
-                "name": "Mercenary Opportunism",
-                "uniques": [
-                    "When defeating a [Military] unit, earn [10] Gold and recruit it <with [15]% chance>", "[Gold] cost of purchasing [Military] units [-25]%",
-                ],
-                "row": 1,
-                "column": 4
-            },
-            {
-                "name": "Machiavellianism",
-                "uniques": [
-                    "Comment [Gain an extra spy] <when espionage is enabled>", "Comment [+25% spy effectiveness in all cities] <when espionage is enabled>", "Gain an extra spy <when espionage is enabled> <hidden from users>", "[+25]% spy effectiveness [in all cities] <when espionage is enabled> <hidden from users>",
-			"Comment [Resting point for Influence with City-States is increased by 10] <when espionage is disabled>", "Resting point for Influence with City-States is increased by [10] <when espionage is disabled> <hidden from users>", "Comment [+1 [Science], +1 [Gold] for every Remaining City-States Civilizations] <when espionage is disabled>",
-                    "[+1 Science, +1 Gold] <for every [Remaining [City-States] Civilizations]> <when espionage is disabled> <hidden from users>"
-                ],
-                "row": 1,
-                "column": 2
-            },
-            {
-                "name": "Counter Intelligence",
-                "uniques": [
-			"Comment [-25% enemy spy effectiveness in all cities] <when espionage is enabled>",
-			"Comment [+1 [Happiness] in all cities] <when espionage is disabled>",
-                    "[-25]% enemy spy effectiveness [in all cities] <when espionage is enabled> <hidden from users>",
-		    "[+1 Happiness] [in all cities] <when espionage is disabled> <hidden from users>",
-		    "Comment [+50% [Production] when constructing defensive buildings]",
-		    "[+50]% Production when constructing [Walls] buildings [in all cities] <hidden from users>",
-		    "[+50]% Production when constructing [Castle] buildings [in all cities] <hidden from users>",
-		    "[+50]% Production when constructing [Arsenal] buildings [in all cities] <hidden from users>",
-		    "[+50]% Production when constructing [Military Base] buildings [in all cities] <hidden from users>",
-		    "[+50]% Production when constructing [Air Defense System] buildings [in all cities] <hidden from users>"
-                ],
-                "requires": ["Machiavellianism"],
-                "row": 2,
-                "column": 2
-            },
-            {
-                "name": "Free Trade",
-                "uniques": [
-                    "Retain [50]% of the happiness from a luxury after the last copy has been traded away"],
-                "requires": ["Counter Intelligence", "Resource Contracts"],
-                "row": 3,
-                "column": 4
-            },
-		{
-                "name": "Resource Contracts",
-                "requires": ["Machiavellianism", "Mercenary Opportunism"],
-                "uniques": [
-		    "[+50]% resources gifted by City-States",
-                    "[+50]% Happiness from luxury resources gifted by City-States"
-                ],
-                "row": 2,
-                "column": 4
-            },
-            {
-                "name": "Relations Complete",
-                "uniques": [
-                    "Comment [Promotes all spies 1 time(s)] <when espionage is enabled>", "Comment [New spies start with 1 level(s)] <when espionage is enabled>", "Promotes all spies [1] time(s) <when espionage is enabled> <hidden from users>", "New spies start with [1] level(s) <when espionage is enabled> <hidden from users>",
-			"Comment [Resting point for Influence with City-States is increased by 10] <when espionage is disabled>", "Comment [Reveal the locations of the cities of the City-States encountered] <when espionage is disabled>", "Resting point for Influence with City-States is increased by [10] <when espionage is disabled> <hidden from users>", "Reveal up to [All] [City center] within a [200] tile radius <when espionage is disabled> <hidden from users>"
-                ]
-            }
-        ]
+	    }
+	]
     },
 	
 	//Liberty
@@ -1745,12 +1665,12 @@
                 "column": 1
             },
             {
-                "name": "Free Market",
+                "name": "Free Trade",
                 "uniques": [
-			"[+1] Happiness from each type of luxury resource",
+                    "Retain [50]% of the happiness from a luxury after the last copy has been traded away",
 			"Comment [Unique policy to Poland civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
-		],
+		]
                 "row": 3,
                 "column": 3
             },
