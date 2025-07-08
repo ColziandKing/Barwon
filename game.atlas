@@ -38,7 +38,7 @@ size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-PolicyBranchIcons/Relations
+PolicyIcons/Relations
   rotate: false
   xy: 1000, 400
   size: 100, 100
