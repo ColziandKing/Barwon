@@ -1618,6 +1618,7 @@
 					"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns",
                     "Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves",
 					"Allied City-States provide [Food] equal to [+40]% of what they produce for themselves",
+			"Comment [Unique policy to The Netherlands civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1667,7 +1668,7 @@
             {
                 "name": "Free Trade",
                 "uniques": [
-                    "Retain [50]% of the happiness from a luxury after the last copy has been traded away",
+                    "Retain [25]% of the happiness from a luxury after the last copy has been traded away",
 			"Comment [Unique policy to Poland civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 		]
