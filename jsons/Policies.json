@@ -1595,6 +1595,7 @@
 					"[-5 Faith] [in capital]",
 					"[-3 Faith] [in all cities]",
 					"[+27]% Natural religion spread [in all cities]",
+			"Comment [Unique policy to The Ottomans civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1650,6 +1651,7 @@
 				"uniques": [
             "[+75]% unhappiness from the number of cities",
         "[-25]% Unhappiness from [Population] [in all cities]",
+			"Comment [Unique policy to China civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 2,
@@ -1680,6 +1682,7 @@
 				"uniques": [
                     "[+2 Production, +2 Food] per [2] population [in all cities]",
 		"[-3 Food, -3 Production] from every specialist [in all cities]",
+			"Comment [Unique policy to Greece civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 3,
