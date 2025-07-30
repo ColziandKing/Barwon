@@ -114,8 +114,8 @@
         "aiFreeTechs": ["Agriculture"],
         "aiMajorCivBonusStartingUnits": [],
         "aiCityStateBonusStartingUnits": ["Worker", "Worker",],
-        "aiUnhappinessModifier": 1,
-        "aisExchangeTechs": true,
+        "aiUnhappinessModifier": 0.7,
+        "aisExchangeTechs": false,
         "turnBarbariansCanEnterPlayerTiles": 0,
         "clearBarbarianCampReward": 25
     },
@@ -143,9 +143,9 @@
         "aiUnitSupplyModifier": 0.3,
         "aiFreeTechs": ["Pottery","Agriculture"],
         "aiMajorCivBonusStartingUnits": ["Era Starting Unit"],
-        "aiCityStateBonusStartingUnits": ["Settler", "Worker", "Worker","Era Starting Unit"],
-        "aiUnhappinessModifier": 1,
-        "aisExchangeTechs": true,
+        "aiCityStateBonusStartingUnits": ["Worker", "Worker","Era Starting Unit"],
+        "aiUnhappinessModifier": 0.7,
+        "aisExchangeTechs": false,
         "turnBarbariansCanEnterPlayerTiles": 0,
         "clearBarbarianCampReward": 25
     },
@@ -174,7 +174,7 @@
         "aiFreeTechs": ["Pottery","Animal Husbandry","Agriculture"],
         "aiMajorCivBonusStartingUnits": ["Era Starting Unit", "Scout"],
         "aiCityStateBonusStartingUnits": ["Settler", "Worker", "Worker","Era Starting Unit","Era Starting Unit"],
-        "aiUnhappinessModifier": 0.9,
+        "aiUnhappinessModifier": 0.7,
         "aisExchangeTechs": true,
         "turnBarbariansCanEnterPlayerTiles": 0,
         "clearBarbarianCampReward": 25
