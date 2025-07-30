@@ -793,6 +793,20 @@
 				"column": 2
 			},
 			{
+				"name": "Cultural Exchange",
+				"uniques": [
+					// TODO: Increases the Tourism modifier for shared religion, trade routes, and open borders by 15% each.
+					"[+10]% [Culture] from every [Museum]",
+					"[+10]% [Culture] from every [Opera House]",
+					"[+10]% [Culture] from every [Broadcast Tower]"
+				],
+				"requires": [
+					"Fine Arts"
+				],
+				"row": 2,
+				"column": 4
+			},
+			{
 				"name": "Artistic Genius",
 				"uniques": [
 					"Free [Great Artist] appears",
@@ -809,20 +823,6 @@
 					"Flourishing of the Arts"
 				],
 				"row": 3,
-				"column": 2
-			},
-			{
-				"name": "Cultural Exchange",
-				"uniques": [
-					// TODO: Increases the Tourism modifier for shared religion, trade routes, and open borders by 15% each.
-					"[+10]% [Culture] from every [Museum]",
-					"[+10]% [Culture] from every [Opera House]",
-					"[+10]% [Culture] from every [Broadcast Tower]"
-				],
-				"requires": [
-					"Fine Arts"
-				],
-				"row": 2,
 				"column": 4
 			},
 			{
