@@ -806,10 +806,10 @@
                     "[+2 Science] from every [Landmark]"
 				],
 				"requires": [
-					"Fine Arts"
+					"Flourishing of the Arts"
 				],
-				"row": 2,
-				"column": 4
+				"row": 3,
+				"column": 2
 			},
 			{
 				"name": "Cultural Exchange",
@@ -820,10 +820,10 @@
 					"[+10]% [Culture] from every [Broadcast Tower]"
 				],
 				"requires": [
-					"Flourishing of the Arts"
+					"Fine Arts"
 				],
-				"row": 3,
-				"column": 2
+				"row": 2,
+				"column": 4
 			},
 			{
 				"name": "Aesthetics Complete",
