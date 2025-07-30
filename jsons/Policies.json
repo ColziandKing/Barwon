@@ -496,6 +496,7 @@
 		"uniques": [
 			"[+10]% [Science] <while the empire is happy>",
 		 "Adopt [Secularism]", 
+			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs)
 			"Unavailable <after adopting [Order]> <hidden from users>",
 			"Unavailable <after adopting [Autocracy]> <hidden from users>",
 		],
@@ -744,7 +745,8 @@
 			"[Great Artist] is earned [25]% faster",
 			"[Great Musician] is earned [25]% faster",
 			"[Great Writer] is earned [25]% faster",
-		 "Adopt [Cultural Centers]", 
+		 "Adopt [Cultural Centers]",
+			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs) 
 		],
 		"priorities": {
 			"Neutral": 0,
