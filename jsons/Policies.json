@@ -97,6 +97,7 @@
                 "Comment [+25% Strength vs Barbarians and City-States units]", "[+25]% Strength <vs [Barbarian] units> <hidden from users>", 
 		"[+25]% Strength <vs [City-States]> <hidden from users>",
 		 "Adopt [City Militia]", 
+					"Unavailable",
 			"[+25]% weight to this choice for AI decisions"
         ],
         "policies": [
