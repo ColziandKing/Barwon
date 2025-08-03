@@ -747,7 +747,7 @@
 			"[Great Musician] is earned [25]% faster",
 			"[Great Writer] is earned [25]% faster",
 		 "Adopt [Cultural Centers]",
-			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs) 
+					"Unavailable",
 		],
 		"priorities": {
 			"Neutral": 0,
