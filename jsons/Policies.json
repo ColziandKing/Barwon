@@ -612,7 +612,9 @@
 			{
 				"name": "Mercenary Army",
 				"uniques": [
-					"Comment [May buy [Landsknecht] units with [Gold] [in your cities]]"
+					"Comment [May buy [Landsknecht] units with [Gold] [in your cities]]",
+					"Comment [May buy [Corsair] units with [Gold] [in your cities]]",
+					"Comment [May buy [Foreign Legion] units with [Gold] [in your cities]]"
 				],
 				"row": 1,
 				"column": 4
