@@ -17,6 +17,8 @@
         "Enables Defensive Pacts",
                     "Gain a free [Governor's Mansion] [in this city] <upon founding a city> <on foreign continents>",
 			"Gain a free [Harbor] [in this city] <upon founding a city> <on foreign continents>",
+                    "[+1] population [in this city] <upon founding a city> <on foreign continents>",
+                    "Free [Slave] appears [in this city] <upon founding a city> <on foreign continents>",
                     "May buy [Diplomat] units for [500] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Medieval era]>",
 	  
         // TODO: Implement the uniques below
