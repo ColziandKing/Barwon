@@ -350,6 +350,7 @@
 			{
 				"name": "Theocracy",
 				"uniques": [
+			                "Gain a free [Follower] belief <after founding a religion>",
 					"[+25]% [Gold] from every [Temple]",
 					"[+3 Gold] from every [Holy site]"
 				],
@@ -574,7 +575,10 @@
 			"[+1] Movement <for [{Military} {Water}] units>",
 			"[+1] Sight <for [{Military} {Water}] units>",
 		 "Adopt [Maritime Infrastructure]", 
-			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs)
+		 "Adopt [Naval Tradition] <hidden from users>",
+		 "Adopt [Navigation School] <hidden from users>",
+		 "Adopt [Merchant Navy] <hidden from users>",
+		 "Adopt [Treasure Fleets] <hidden from users>",
 		],
 		"era": "Medieval era",
 		"priorities": {
@@ -672,8 +676,11 @@
 		"uniques": [
 			"[+25]% [Gold] [in capital]",
 		 "Adopt [Wagon Trains]", 
-			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs)
-			"Unavailable <after adopting [Order]> <hidden from users>",
+		 "Adopt [Mercenary Army] <hidden from users>",
+		 "Adopt [Mercantilism] <hidden from users>",
+		 "Adopt [Protectionism] <hidden from users>",
+		 "Adopt [Entrepreneurship] <hidden from users>",
+					"Unavailable <after adopting [Order]> <hidden from users>",
 			"Unavailable <after adopting [Autocracy]> <hidden from users>",
 		],
 		"policies": [
@@ -754,7 +761,10 @@
 			"[Great Musician] is earned [25]% faster",
 			"[Great Writer] is earned [25]% faster",
 		 "Adopt [Cultural Centers]",
-			"Free Social Policy <if no other Civilization has adopted this>", // Early Adopter (usually provided to the first two civs)
+		 "Adopt [Fine Arts] <hidden from users>",
+		 "Adopt [Flourishing of the Arts] <hidden from users>",
+		 "Adopt [Cultural Exchange] <hidden from users>",
+		 "Adopt [Artistic Genius] <hidden from users>",
 		],
 		"priorities": {
 			"Neutral": 0,
