@@ -1639,7 +1639,7 @@
                 "name": "Religious Orders",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-50]%",
-			"[+17]% Natural religion spread [in all cities]",
+			"[+50]% Natural religion spread [in City-State cities]",
 			"Gain a free [Follower] belief <after founding a religion>",
 			"Comment [Unique policy to Spain civilization]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
