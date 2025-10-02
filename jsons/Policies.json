@@ -245,10 +245,6 @@
 			"[+50]% Production when constructing [Shrine] buildings [in all cities]",
 			"[+50]% Production when constructing [Temple] buildings [in all cities]",
 		 "Adopt [Organized Religion]", 
-		 "Adopt [Mandate Of Heaven] <hidden from users>",
-		 "Adopt [Theocracy] <hidden from users>",
-		 "Adopt [Religious Tolerance] <hidden from users>",
-		 "Adopt [Reformation] <hidden from users>",
 	                "Only available <before the [Industrial era]>",
 			"Only available <when religion is enabled>"
 		],
