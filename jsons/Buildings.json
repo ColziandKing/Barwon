@@ -8,6 +8,18 @@
         ]
     },
     {
+        "name": "Outremer",
+        "uniqueTo": "Jerusalem",
+        "replaces": "Governor's Mansion",
+        "culture": 2,
+        "happiness": 1,
+        "uniques": [
+		"Unsellable","Unbuildable",
+            "[+2] population [in this city]"
+        ],
+        "requiredTech": "Mathematics"
+    },
+    {
         "name": "Watch Tower",
         "cityStrength": 7,
         "cityHealth": 50,
