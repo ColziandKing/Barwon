@@ -1518,11 +1518,11 @@
 			{
 				"name": "Free Religion",
 				"uniques": [
-					"[-5 Faith] [in holy cities]",
+					"[-3 Faith] [in holy cities]",
 					"[-2 Faith] [in capital]",
 					"[-1 Faith] [in all cities]",
 					"[+27]% Natural religion spread [in all cities]",
-			"Comment [Unique policy to The Ottomans civilization]",
+			"Comment [Recommended for Order civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1533,7 +1533,7 @@
 				"uniques": [
 					"Free Technology <upon discovering [Education] technology>",
                                         "[+15]% [Production] [in all cities]",
-			"Comment [Unique policy to Austria civilization]",
+			"Comment [Recommended for Autocracy civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1546,7 +1546,7 @@
 					"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns",
                     "Allied City-States provide [Gold] equal to [+30]% of what they produce for themselves",
 					"Allied City-States provide [Food] equal to [+40]% of what they produce for themselves",
-			"Comment [Unique policy to The Netherlands civilization]",
+			"Comment [Recommended for Freedom & Autocracy civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 1,
@@ -1558,7 +1558,7 @@
                     "[Faith] cost of purchasing items in cities [-50]%",
 			"[+50]% Natural religion spread [in City-State cities]",
 			"Gain a free [Follower] belief <after founding a religion>",
-			"Comment [Unique policy to Spain civilization]",
+			"Comment [Recommended for Freedom & Autocracy civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
                 ],
                 "row": 2,
@@ -1568,7 +1568,7 @@
                 "name": "Monasticism",
                 "uniques": [
 			"Gain a free [Garden] [in all cities]", "[+1 Faith] from every [Garden]",
-			"Comment [Unique policy to Byzantine civilization]",
+			"Comment [Recommended for Freedom civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 		],
                 "row": 2,
@@ -1579,7 +1579,7 @@
 				"uniques": [
             "[+75]% unhappiness from the number of cities",
         "[-25]% Unhappiness from [Population] [in all cities]",
-			"Comment [Unique policy to China civilization]",
+			"Comment [Recommended for Order civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 2,
@@ -1589,7 +1589,7 @@
                 "name": "Monumentalism",
                 "uniques": [
                    "[+1 Happiness, +1 Culture] from every [Wonder]",
-			"Comment [Unique policy to France civilization]",
+			"Comment [Recommended for Autocracy & Order civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
                 ],
                 "row": 3,
@@ -1599,7 +1599,7 @@
                 "name": "Free Trade",
                 "uniques": [
                     "Retain [25]% of the happiness from a luxury after the last copy has been traded away",
-			"Comment [Unique policy to Poland civilization]",
+			"Comment [Recommended for Freedom civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 		]
                 "row": 3,
@@ -1609,8 +1609,8 @@
 				"name": "Democracy",
 				"uniques": [
                     "[+2 Production, +2 Food] per [2] population [in all cities]",
-		"[-3 Food, -3 Production] from every specialist [in all cities]",
-			"Comment [Unique policy to Greece civilization]",
+		"[-2 Food, -2 Production] from every specialist [in all cities]",
+			"Comment [Recommended for Freedom & Order civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
 				"row": 3,
