@@ -1,0 +1,41 @@
+[
+{
+		"name": "Jerusalem",
+		"leaderName": "Baldwin IV",
+		"adjective": ["Jerusalem"],
+		"startBias": ["Flood plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [235, 235, 237],
+		"innerColor": [201, 146, 6],
+		"uniqueName": "The Leper King",
+		"uniques": ["[+1 Faith] in cities on [Desert] tiles","[+5]% Strength <vs [Land] units> <when fighting in [Desert] tiles>","Gain a free [Outremer] [in all cities] <after adopting [Legalism]> <hidden from users>",
+			"[+10]% Strength <vs [Land] units> <when fighting in [Flood plains] tiles>","[+10]% Strength <vs [Land] units> <when defending>","[+20]% Strength <in cities following our religion>"],
+		"cities": ["Jerusalem",
+"Acre",
+"Jaffa",
+"Ascalon",
+"Tyre",
+"Sidon",
+"Haifa",
+"Nazareth",
+"Bethlehem",
+"Hebron",
+"Tiberias",
+"Ramla",
+"Nablus",
+"Gaza"]
+	},
+]
