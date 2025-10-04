@@ -25,6 +25,12 @@
 				]
 			},
 			{
+				"text": "Diplomatic Missions",
+				"uniques": [
+		 			"Adopt [Diplomatic Missions]",
+				]
+			},
+			{
 				"text": "Religious Orders",
 				"uniques": [
 		 			"Adopt [Religious Orders]",
@@ -40,6 +46,12 @@
 				"text": "Planned Economy",
 				"uniques": [
 		 			"Adopt [Planned Economy]",
+				]
+			},
+			{
+				"text": "City Militia",
+				"uniques": [
+		 			"Adopt [City Militia]",
 				]
 			},
 			{
@@ -59,7 +71,13 @@
 				"uniques": [
 		 			"Adopt [Democracy]",
 				]
-			}
+			},
+			{
+				"text": "Autarky",
+				"uniques": [
+		 			"Adopt [Autarky]",
+				]
+			},
 		]
 	},
 ]
