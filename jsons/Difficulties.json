@@ -72,7 +72,7 @@
         "unhappinessModifier": 0.75,
         "barbarianBonus": 0.5,
         "barbarianSpawnDelay": 3,
-        "playerBonusStartingUnits": ["Swiss Guard","Swiss Guard","Foreign Legion","Foreign Legion","Corsair","Corsair","Sao","Sao","Paladin","Paladin"],
+        "playerBonusStartingUnits": ["Tokl","Foreign Legion","Foreign Legion","Corsair","Corsair","Corsair","Foreign Legion"],
         "aiDifficultyLevel": "AI",
         "aiCityGrowthModifier": 1.1,
         "aiUnitCostModifier": 1.1,
