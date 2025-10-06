@@ -6,7 +6,7 @@
 		"strength": 5,
 		"cost": 25,
 		"requiredTech": "Hidden Antiquity Sites",
-		"uniques": ["Can gain [2500000] [Gold] <by consuming this unit>","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
+		"uniques": ["Can gain [2500000] [Gold] <by expending this unit>","May upgrade to [Archer] through ruins-like effects", "Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
