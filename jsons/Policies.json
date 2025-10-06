@@ -1610,7 +1610,7 @@
 				"name": "Democracy",
 				"uniques": [
                     "[+2 Production, +2 Food] per [2] population [in all cities]",
-		"[-2 Food, -2 Production] from every specialist [in all cities]",
+		"[-3 Food, -3 Production] from every specialist [in all cities]",
 			"Comment [Recommended for Freedom & Order civs]",
 					"Only available <when above [1] [Level 3 Policy]> <hidden from users>"
 				],
