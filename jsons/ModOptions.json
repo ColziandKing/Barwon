@@ -1,7 +1,7 @@
 {
 	"isBaseRuleset": "false",
     "uniques": [
-	  "Allow raze capital",
+	  "Allow raze capital", "Allow raze holy cities",
 	"Allow City States to spawn with additional units",
 	"Can trade civilization introductions for [100] Gold",
     ],
